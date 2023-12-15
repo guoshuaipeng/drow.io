@@ -1,0 +1,58 @@
+<mxfile host="Electron" modified="2023-12-15T09:42:11.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="Bd07pHPnCm1LfnCbXrLf" version="22.0.3" type="device">
+  <diagram name="第 1 页" id="yr2bZk4nfqr0eSYBo5uu">
+    <mxGraphModel dx="1206" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oh2XWSuIruPi34dmkPh3-1" value="累计数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oh2XWSuIruPi34dmkPh3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oh2XWSuIruPi34dmkPh3-2" target="oh2XWSuIruPi34dmkPh3-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oh2XWSuIruPi34dmkPh3-20" value="累加" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oh2XWSuIruPi34dmkPh3-10">
+          <mxGeometry x="0.1167" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oh2XWSuIruPi34dmkPh3-2" value="每日数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oh2XWSuIruPi34dmkPh3-3" value="实时数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oh2XWSuIruPi34dmkPh3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oh2XWSuIruPi34dmkPh3-4" target="oh2XWSuIruPi34dmkPh3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oh2XWSuIruPi34dmkPh3-19" value="离线统计" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oh2XWSuIruPi34dmkPh3-9">
+          <mxGeometry x="-0.2533" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oh2XWSuIruPi34dmkPh3-11" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="oh2XWSuIruPi34dmkPh3-2" target="oh2XWSuIruPi34dmkPh3-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="250" as="sourcePoint" />
+            <mxPoint x="580" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oh2XWSuIruPi34dmkPh3-21" value="离线重写." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oh2XWSuIruPi34dmkPh3-11">
+          <mxGeometry x="-0.1156" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oh2XWSuIruPi34dmkPh3-4" value="定时任务" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oh2XWSuIruPi34dmkPh3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oh2XWSuIruPi34dmkPh3-12" target="oh2XWSuIruPi34dmkPh3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oh2XWSuIruPi34dmkPh3-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="830" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oh2XWSuIruPi34dmkPh3-17" value="实时打点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="685" y="138" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" modified="2023-11-10T10:02:20.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="jFl_1hhwTiv0C0YZFTzR" version="22.1.0" type="device">
+  <diagram name="第 1 页" id="quULUB-aea0yACO4BcoB">
+    <mxGraphModel dx="1221" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WWc80JX6PcebrmO4cWDP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WWc80JX6PcebrmO4cWDP-1" target="WWc80JX6PcebrmO4cWDP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WWc80JX6PcebrmO4cWDP-1" value="分销中心数据看板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WWc80JX6PcebrmO4cWDP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WWc80JX6PcebrmO4cWDP-4" target="WWc80JX6PcebrmO4cWDP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WWc80JX6PcebrmO4cWDP-8" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WWc80JX6PcebrmO4cWDP-7">
+          <mxGeometry x="-0.4" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WWc80JX6PcebrmO4cWDP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WWc80JX6PcebrmO4cWDP-4" target="WWc80JX6PcebrmO4cWDP-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WWc80JX6PcebrmO4cWDP-4" value="是否包含多资产" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="260" y="400" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WWc80JX6PcebrmO4cWDP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WWc80JX6PcebrmO4cWDP-6" target="WWc80JX6PcebrmO4cWDP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WWc80JX6PcebrmO4cWDP-22" value="现金" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WWc80JX6PcebrmO4cWDP-20">
+          <mxGeometry x="-0.2238" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WWc80JX6PcebrmO4cWDP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WWc80JX6PcebrmO4cWDP-6" target="WWc80JX6PcebrmO4cWDP-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="460" />
+              <mxPoint x="680" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WWc80JX6PcebrmO4cWDP-23" value="积分\余额" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WWc80JX6PcebrmO4cWDP-21">
+          <mxGeometry x="-0.5222" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WWc80JX6PcebrmO4cWDP-6" value="资产列表页" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WWc80JX6PcebrmO4cWDP-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WWc80JX6PcebrmO4cWDP-12" target="WWc80JX6PcebrmO4cWDP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WWc80JX6PcebrmO4cWDP-16" value="现金" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WWc80JX6PcebrmO4cWDP-15">
+          <mxGeometry x="-0.225" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WWc80JX6PcebrmO4cWDP-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WWc80JX6PcebrmO4cWDP-12" target="WWc80JX6PcebrmO4cWDP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WWc80JX6PcebrmO4cWDP-19" value="积分|余额" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WWc80JX6PcebrmO4cWDP-18">
+          <mxGeometry x="-0.2303" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WWc80JX6PcebrmO4cWDP-12" value="奖励类型" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="260" y="600" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WWc80JX6PcebrmO4cWDP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WWc80JX6PcebrmO4cWDP-14" target="WWc80JX6PcebrmO4cWDP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WWc80JX6PcebrmO4cWDP-14" value="现金奖励详情页&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WWc80JX6PcebrmO4cWDP-17" value="收入\结算明细页" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
